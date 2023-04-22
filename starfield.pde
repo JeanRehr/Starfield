@@ -1,3 +1,7 @@
+/*
+* Made by Jean Rehr with help from the coding train yt channel.
+*/
+
 Star[] stars = new Star[10000];
 int width = 1000;
 int height = 1000;
